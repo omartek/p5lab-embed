@@ -7,7 +7,13 @@
 
 ---
 
-<img src="./images/shapes.png" alt="drawing" style="width:800px;"/>
+<img src="./images/guida_cerchio.png" alt="drawing" style="width:400px;"/>
+
+[Guarda la guida](https://p5js.org/reference/#/p5/circle)
+
+<img src="./images/guida_rect.png" alt="drawing" style="width:400px;"/>
+
+[Guarda la guida](https://p5js.org/reference/#/p5/rect)
 
 ---
 
@@ -23,11 +29,11 @@
 
 ---
 
+<img src="./images/rgb.jpeg" alt="drawing" style="width:800px;"/>
+
 <img src="./images/hue.png" alt="drawing" style="width:800px;"/>
 
----
-
-<img src="./images/rgb.jpeg" alt="drawing" style="width:800px;"/>
+[Color Picker](https://colorpicker.me)
 
 ---
 
@@ -43,4 +49,7 @@
 
 ---
 
+<img src="./images/cheatsheet.png" alt="drawing" style="width:800px;"/>
+
+---
 
