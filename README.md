@@ -11,4 +11,4 @@ Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) par
 
 
 [^1]: Vedi [Repo Github](https://github.com/omartek/p5js-lab)
-[^2]: Vai qui (https://commonmark.org/) per imparare il Markdown in 60 secondi
+[^2]: Vai qui [https://commonmark.org/](https://commonmark.org/) per imparare il Markdown in 60 secondi
