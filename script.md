@@ -1,5 +1,6 @@
 # Matita
 
+```javascript
     function setup() {
       createCanvas(400, 400);
       background(0);
@@ -12,3 +13,4 @@
       circle(mouseX, mouseY, 4);
       //circle(400-mouseX, 400-mouseY, 4);
     }
+```
