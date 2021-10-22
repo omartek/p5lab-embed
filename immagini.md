@@ -9,11 +9,11 @@
 
 <img src="./images/guida_cerchio.png" alt="drawing" style="width:400px;"/>
 
-[Guarda la guida](https://p5js.org/reference/#/p5/circle)
+[Fai alcune prove con la guida in linea](https://p5js.org/reference/#/p5/circle)
 
 <img src="./images/guida_rect.png" alt="drawing" style="width:400px;"/>
 
-[Guarda la guida](https://p5js.org/reference/#/p5/rect)
+[Fai alcune prove con la guida in linea](https://p5js.org/reference/#/p5/rect)
 
 ---
 
@@ -33,7 +33,7 @@
 
 <img src="./images/hue.png" alt="drawing" style="width:800px;"/>
 
-[Color Picker](https://colorpicker.me)
+[Utilizza il Color Picker per scegliere un colore](https://colorpicker.me)
 
 ---
 
