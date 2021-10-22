@@ -3,6 +3,10 @@
 
 ---
 
+<img src="./images/setup_loop.png" alt="drawing" style="width:800px;"/>
+
+---
+
 <img src="./images/piano_cartesiano_2.png" alt="drawing" style="width:800px;"/>
 
 ---
@@ -14,10 +18,6 @@
 <img src="./images/guida_rect.png" alt="drawing" style="width:400px;"/>
 
 [Fai alcune prove con la guida in linea](https://p5js.org/reference/#/p5/rect)
-
----
-
-<img src="./images/setup_loop.png" alt="drawing" style="width:800px;"/>
 
 ---
 
