@@ -1,3 +1,3 @@
 Seconda pagina
 
-[<---- Prev](./README.md)
+[<------ Prev](./README.md)
