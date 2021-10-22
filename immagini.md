@@ -51,7 +51,7 @@
 
 ---
 
-<img src="./images/cheatsheet.png" alt="drawing" style="width:800px;"/>
+<img src="./images/cheatsheet.jpg" alt="drawing" style="width:800px;"/>
 
 ---
 
