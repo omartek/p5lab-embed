@@ -1,5 +1,7 @@
 [<------ Prev  ](./README.md)                [  Next ------>](./script.md)
 
+---
+
 <img src="./images/piano_cartesiano.png" alt="drawing" style="width:800px;"/>
 
 ---
@@ -55,4 +57,5 @@
 <img src="./images/cheatsheet.jpg" alt="drawing" style="width:800px;"/>
 
 ---
+
 [<------ Prev  ](./README.md)                [  Next ------>](./script.md)
