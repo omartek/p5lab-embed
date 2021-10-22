@@ -3,7 +3,7 @@ Progetti P5js [^1]
 
 Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) partendo da documenti scritti in [Markdown](https://commonmark.org/)[^2].
 
-<iframe src="https://preview.p5js.org/lazzariomar/embed/NQGn0oYx9" width="400" height="400" style="border:none;"></iframe>
+<iframe src="https://preview.p5js.org/lazzariomar/embed/NQGn0oYx9" width="400" height="800" style="border:none;"></iframe>
 
 
 ---
