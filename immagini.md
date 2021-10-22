@@ -29,6 +29,8 @@
 
 ---
 
+<img src="./images/fill_command.png" alt="drawing" style="width:800px;"/>
+
 <img src="./images/rgb.jpeg" alt="drawing" style="width:800px;"/>
 
 <img src="./images/hue.png" alt="drawing" style="width:800px;"/>
