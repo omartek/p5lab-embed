@@ -5,7 +5,9 @@ Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) par
 
 <iframe src="https://preview.p5js.org/lazzariomar/embed/kYaD_QjLJ" width="400" height="400" style="border:none;"></iframe>
 
-[next page](./secondaPagina.md)
+
+---
+[------>](./secondaPagina.md)
 
 
 [^1]: Vedi [Repo Github](https://github.com/omartek/p5js-lab)
