@@ -19,10 +19,10 @@ Link utili:
 
 [Shortner del sito dgxy.link/p5lab](https://dgxy.link/p5lab)
 
----
+
 [Next ------>](./immagini.md)
 
-
+---
 [^1]: Vedi [Repo Github](https://github.com/omartek/p5js-lab)
 [^2]: Vai qui [https://commonmark.org/](https://commonmark.org/) per imparare il Markdown in 60 secondi
 [^3]: https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js
