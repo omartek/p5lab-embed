@@ -1,5 +1,7 @@
 [<------ Prev  ](./immagini.md)
 
+---
+
 # Testa con occhi
 
 ```javascript
@@ -83,5 +85,7 @@
      ellipse(mouseX, mouseY, 80, 80);
     }
 ```
+
+---
 
 [<------ Prev  ](./immagini.md)
