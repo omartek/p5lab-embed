@@ -7,6 +7,17 @@ Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) par
 
 <iframe src="https://preview.p5js.org/lazzariomar/embed/NQGn0oYx9" width="800" height="400" style="border:none;"></iframe>
 
+Link utili:
+
+[Useremo questa lavagna collaborativa](https://wbo.ophir.dev/boards/u4fn6g-WAcvpA0JPAGyHWSsda5tMpHOkxNTmhVKH2yo-)
+
+[Processing Wiki](https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js)[^3]
+
+[Esempi di P5js](https://p5js.org/examples/)[^4]
+
+[The coding train](https://thecodingtrain.com/)[^5]
+
+[Shortner del sito dgxy.link/p5lab](https://dgxy.link/p5lab)
 
 ---
 [Next ------>](./immagini.md)
@@ -14,3 +25,6 @@ Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) par
 
 [^1]: Vedi [Repo Github](https://github.com/omartek/p5js-lab)
 [^2]: Vai qui [https://commonmark.org/](https://commonmark.org/) per imparare il Markdown in 60 secondi
+[^3]: https://en.wikipedia.org/wiki/Processing_(programming_language)#p5.js
+[^4]: https://p5js.org/examples/
+[^5]: https://thecodingtrain.com/
