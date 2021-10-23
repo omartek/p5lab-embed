@@ -20,9 +20,6 @@ Link utili:
 
 [The coding train](https://thecodingtrain.com/)[^5]
 
-[Shortner del sito dgxy.link/p5lab](https://dgxy.link/p5lab)
-
-
 [Next ------>](./immagini.md)
 
 ---
