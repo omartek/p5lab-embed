@@ -14,11 +14,11 @@
 
 ---
 
-<img src="./images/guida_cerchio.png" alt="drawing" style="width:400px;"/>
+<img src="./images/guida_cerchio.png" alt="drawing" style="width:600px;"/>
 
 [Fai alcune prove con la guida in linea](https://p5js.org/reference/#/p5/circle)
 
-<img src="./images/guida_rect.png" alt="drawing" style="width:400px;"/>
+<img src="./images/guida_rect.png" alt="drawing" style="width:600px;"/>
 
 [Fai alcune prove con la guida in linea](https://p5js.org/reference/#/p5/rect)
 
