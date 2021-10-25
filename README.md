@@ -10,6 +10,8 @@ Queste pagine HTML sono [create qui](https://github.com/omartek/p5lab-embed) par
 
 Guarda altri progetti su [OpenProcessing](https://openprocessing.org/).
 
+---
+
 Link utili:
 
 [Useremo questa lavagna collaborativa](https://wbo.ophir.dev/boards/u4fn6g-WAcvpA0JPAGyHWSsda5tMpHOkxNTmhVKH2yo-)
